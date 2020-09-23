@@ -1,0 +1,26 @@
+
+body{
+	border:20px solid #ed891f;
+	padding:20px;
+	max-width:700px;
+	width:80%;
+	margin:20px auto;
+    font-family:"Source Sans Pro";
+    line-height:20px;    	
+} 
+.head{
+	font-family:"Source Sans Pro";
+} 	
+	
+h5{
+    
+    font-size-adjust:0.58;
+	line-height:10px;
+	word-spacing:0.3em;
+	text-align:center;
+	text-indent:30%;
+}
+
+h3{
+  text-decoration:underline;
+}
